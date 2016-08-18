@@ -26,7 +26,7 @@ namespace RPGShop
             {
                 if (cash < 0)
                 {
-                    Console.WriteLine("\nNie chcę żebyć był moim dłużnikiem.");
+                    Console.WriteLine("\nNie chcę żebyś był moim dłużnikiem.");
                     Console.WriteLine("\nMasz tu ode mnie 100 zł.");
                     cash = 100;
                     Console.ReadLine();
